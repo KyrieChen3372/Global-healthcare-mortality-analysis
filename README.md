@@ -59,10 +59,9 @@ I developed two distinct supervised learning models to move beyond descriptive s
 ## 💻 How to Run
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/KyrieChen3372/Global-Healthcare-Density-Mortality-Analysis.git](https://github.com/KyrieChen3372/Global-Healthcare-Density-Mortality-Analysis.git)
+   git clone https://github.com/KyrieChen3372/Global-Healthcare-Density-Mortality-Analysis.git
    cd Global-Healthcare-Density-Mortality-Analysis
    ```
-
 2. **Install Dependencies**
    ```bash
    pip install pandas scikit-learn matplotlib seaborn tabulate
@@ -74,9 +73,8 @@ python src/Naive_Bayes.py
 ```
 
 ## 👥 Contributors
-Collaborative effort for DATA1002 at the University of Sydney (Group 1002_L32_G3):
-Zelin Chen (SID: 530333591) - Lead Machine Learning Engineer & Data Analyst: Developed Logistic/Naive Bayes models, conducted pharmacist density research, and designed advanced bubble chart visualizations.
-Team Members (SID: 500366554, 530649584, 520595273) - Contributors to physician/nurse analysis, data cleaning, and final report writing
+Collaborative effort for **DATA1002** at the **University of Sydney** (Group 1002_L32_G3):
+* **Zelin Chen (SID: 530333591)** - Lead Machine Learning Engineer & Data Analyst: Developed Logistic/Naive Bayes models, conducted pharmacist density research, and designed advanced bubble chart visualizations.
+* **Team Members (SID: 500366554, 530649584, 520595273)** - Contributors to physician/nurse analysis, data cleaning, and final report writing.
+  
 
-## 📝 License
-This project is for educational purposes as part of the DATA1002 course at the University of Sydney.
